@@ -1,3 +1,4 @@
+teste
 <?php
 	phpinfo();
 
